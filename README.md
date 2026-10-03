@@ -1,5 +1,9 @@
 # 💫 About Me:
-Senior Software Engineer specializing in low-latency, event-driven distributed systems and resilient microservices architecture.<br>Currently Exploring: Vector databases, RAG architecture, and deep low-level Python/JVM internals for high-performance computing.<br>Tech Stack: Java, Spring Cloud, Kafka, AWS (EKS, DynamoDB), OpenShift, Docker, Kubernetes, and SQL/NoSQL systems.<br>Looking to Collaborate On: Building revenue generating product that address market gap 
+Senior Software Engineer specializing in low-latency, event-driven distributed systems and resilient microservices architecture.
+
+<br>Currently Exploring: Vector databases, RAG architecture, and deep low-level Python/JVM internals for high-performance computing.
+
+<br>Tech Stack: Java, Spring Cloud, Kafka, AWS (EKS, DynamoDB), OpenShift, Docker, Kubernetes, and SQL/NoSQL systems.<br>Looking to Collaborate On: Building revenue generating product that address market gap 
 
 <br>Fun Fact: When I'm not tuning thread pools or debugging distributed state, you'll find me tracking the stock markets, or exploring new places.
 
